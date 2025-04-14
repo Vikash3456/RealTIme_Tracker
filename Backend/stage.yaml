@@ -1,0 +1,15 @@
+Check if the browser
+Set options for high
+Use watchPosition to
+supports geolocation.
+accuracy, a 5-second timeout, and no caching.
+track the users location continuously.
+Emit the latitude and longitude via a socket with "send-location".
+Log any errors to the console
+Initialize a nap centered at coordinates (0,
+Create an empty object markers.
+When receiving location data via the socket,
+Ø) with a zoon levet of 15 using Leaflet. Add OpenStreetMap tiles to the nap
+extract ld,
+latitude, and longitude,
+and center the map on the new coordinates.
